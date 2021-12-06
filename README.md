@@ -36,6 +36,7 @@
 |-----|-----|
 ||[OpenSSE: Open Sketch Search Engine](https://github.com/zddhub/opensse)<br>|
 ||[Line Drawings View Tool](https://github.com/zddhub/trianglemesh)<br>|
+|Multi-View CNN built on ResNet/AlexNet to classify 3D objects|[MVCNN-PyTorch](https://github.com/RBirkeland/MVCNN-PyTorch)|
 ||[SupCon-Framework](https://github.com/ivanpanshin/SupCon-Framework)<br>|
 ||[Triplet Loss SBIR](https://github.com/TuBui/Triplet_Loss_SBIR)<br>|
 ||[Triplet Center Loss (TCL) Solution for SHREC2018 IBR & SBR](https://github.com/xlliu7/Shrec2018_TripletCenterLoss.pytorch)<br>|
