@@ -1,8 +1,14 @@
 # SBSR
+## 深度学习在图像处理中的应用教程
+[深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing "B站视频")
+
+
+
 ## 度量学习 Metric Learning
 
 [PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")
     度量学习示例教程
+
 
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
@@ -32,5 +38,7 @@
     Code for Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning. ICCV 2021.
 
 
+
 ## 生成艺术风格的线条草图
+
 [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis "A collection of papers about Sketch Synthesis (Generation). Mainly focus on stroke-level vector sketch synthesis.")
