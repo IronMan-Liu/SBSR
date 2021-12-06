@@ -26,11 +26,11 @@
 [Siamese and triplet learning with online pair/triplet mining](https://github.com/adambielski/siamese-triplet)<br>
 [TCNet （基于草图检索）](https://github.com/avalonstrel/TCNet)<br>
 [Triplet Network](https://github.com/thainguyentrong/triplet-net)<br>
->>>>Pytorch implementation of Triplet Network for Content-based Image Retrieval (CBIR).<br>
+>Pytorch implementation of Triplet Network for Content-based Image Retrieval (CBIR).<br>
 [3D Shape Retrieval and Sketched Scene Reconstruction Using Triplet Embedding](https://github.com/Madalaski/MattRedmondL3Project)<br>    
 [SBIR (Sketch-based Icon retrieval)](https://github.com/emizzz/Sketch-to-Icon-Paper-Code)<br>
 [CMIC-Retrieval](https://github.com/IGLICT/IBSR_jittor)<br>
->>>>Code for Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning. ICCV 2021.<br>
+>Code for Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning. ICCV 2021.<br>
 
 
 ## 胶囊网络 CapsNet
