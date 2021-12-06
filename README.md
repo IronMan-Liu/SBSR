@@ -15,3 +15,7 @@ Siamese and triplet learning with online pair/triplet mining
 
 TCNet （基于草图检索）
     https://github.com/avalonstrel/TCNet
+
+Triplet Network
+Pytorch implementation of Triplet Network for Content-based Image Retrieval (CBIR).
+    https://github.com/thainguyentrong/triplet-net
