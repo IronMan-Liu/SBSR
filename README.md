@@ -3,3 +3,9 @@
 
 Triplet Loss SBIR 
     https://github.com/TuBui/Triplet_Loss_SBIR
+
+Triplet Center Loss (TCL) Solution for SHREC2018 IBR & SBR
+    https://github.com/xlliu7/Shrec2018_TripletCenterLoss.pytorch
+    
+Siamese and triplet learning with online pair/triplet mining
+    https://github.com/adambielski/siamese-triplet
