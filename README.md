@@ -19,3 +19,9 @@ TCNet （基于草图检索）
 Triplet Network
 Pytorch implementation of Triplet Network for Content-based Image Retrieval (CBIR).
     https://github.com/thainguyentrong/triplet-net
+
+3D Shape Retrieval and Sketched Scene Reconstruction Using Triplet Embedding
+    https://github.com/Madalaski/MattRedmondL3Project
+    
+SBIR (Sketch-based Icon retrieval)
+    https://github.com/emizzz/Sketch-to-Icon-Paper-Code
