@@ -50,7 +50,7 @@
 ## 胶囊网络 CapsNet
 |描述|资源地址|
 |-----|-----|
-|胶囊网络|[CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)|
-|胶囊网络|[CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)|
+|Keras|[CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)|
+|Tensorflow|[CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)|
 
 
