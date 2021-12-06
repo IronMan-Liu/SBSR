@@ -41,7 +41,7 @@
 [CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)<br>
 [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)<br>
 
-|类型|资源|
+|资 源 描 述|资 源 地 址|
 |-----|-----|
 |胶囊网络|[CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)|
 ||[CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)<br>|
