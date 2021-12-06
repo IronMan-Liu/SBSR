@@ -1,14 +1,14 @@
 # SBSR
 ## 度量学习 Metric Learning
 
-[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "悬停显示")
+[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")
 
 
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
 
-OpenSSE: Open Sketch Search Engine
-    https://github.com/zddhub/opensse
+[OpenSSE: Open Sketch Search Engine]
+    (https://github.com/zddhub/opensse)
 
 Line Drawings View Tool
     https://github.com/zddhub/trianglemesh
