@@ -9,3 +9,6 @@ Triplet Center Loss (TCL) Solution for SHREC2018 IBR & SBR
     
 Siamese and triplet learning with online pair/triplet mining
     https://github.com/adambielski/siamese-triplet
+
+TCNet （基于草图检索）
+    https://github.com/avalonstrel/TCNet
