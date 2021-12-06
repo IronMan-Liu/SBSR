@@ -33,4 +33,4 @@
 
 
 ## 生成艺术风格的线条草图
-[Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis"A collection of papers about Sketch Synthesis (Generation). Mainly focus on stroke-level vector sketch synthesis.")
+[Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis "A collection of papers about Sketch Synthesis (Generation). Mainly focus on stroke-level vector sketch synthesis.")
