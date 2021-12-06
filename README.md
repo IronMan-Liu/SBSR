@@ -43,6 +43,7 @@
 
 |类型|资源|
 |-----|-----|
-|胶囊网络|[CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)[CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)<br>|
+|胶囊网络|[CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)|
+||[CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)<br>|
 
 
