@@ -30,3 +30,7 @@
 
 [CMIC-Retrieval](https://github.com/IGLICT/IBSR_jittor)
     Code for Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning. ICCV 2021.
+
+
+## 生成艺术风格的线条草图
+[Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis"A collection of papers about Sketch Synthesis (Generation). Mainly focus on stroke-level vector sketch synthesis.")
