@@ -27,3 +27,6 @@
 [3D Shape Retrieval and Sketched Scene Reconstruction Using Triplet Embedding](https://github.com/Madalaski/MattRedmondL3Project)
     
 [SBIR (Sketch-based Icon retrieval)](https://github.com/emizzz/Sketch-to-Icon-Paper-Code)
+
+[CMIC-Retrieval](https://github.com/IGLICT/IBSR_jittor)
+    Code for Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning. ICCV 2021.
