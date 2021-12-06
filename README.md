@@ -15,7 +15,6 @@
 
 ## 度量学习 Metric Learning
 [PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")
-    度量学习示例教程
 [keras-triplet-center-loss](https://github.com/popcornell/keras-triplet-center-loss)
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
