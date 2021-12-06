@@ -8,11 +8,14 @@ PyTorch Metric Learning
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
 
-### OpenSSE: Open Sketch Search Engine
+OpenSSE: Open Sketch Search Engine
     https://github.com/zddhub/opensse
 
-### Line Drawings View Tool
+Line Drawings View Tool
     https://github.com/zddhub/trianglemesh
+    
+SupCon-Framework
+    https://github.com/ivanpanshin/SupCon-Framework
 
 Triplet Loss SBIR 
     https://github.com/TuBui/Triplet_Loss_SBIR
