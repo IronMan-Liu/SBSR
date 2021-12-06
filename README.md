@@ -2,7 +2,7 @@
 ## 模型检索代码汇总 Model retrieval
 |描述|资源地址|
 |-----|-----|
-||[Some ML Model retrieval](https://github.com/iofu728/Model_retrieval)<br>|
+|包含word2vec|[Some ML Model retrieval](https://github.com/iofu728/Model_retrieval)<br>|
 
 
 ## 深度学习在图像处理中的应用教程
@@ -28,8 +28,8 @@
 ## 度量学习 Metric Learning
 |描述|资源地址|
 |-----|-----|
-||[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")<br>|
-||[keras-triplet-center-loss](https://github.com/popcornell/keras-triplet-center-loss)<br>|
+|PyTorch|[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")<br>|
+|keras|[keras-triplet-center-loss](https://github.com/popcornell/keras-triplet-center-loss)<br>|
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
 |描述|资源地址|
