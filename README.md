@@ -1,7 +1,7 @@
 # SBSR
 ## 度量学习 Metric Learning
 
-[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb)
+PyTorch Metric Learning(https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb)
 
 
 
