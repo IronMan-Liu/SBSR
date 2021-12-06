@@ -1,21 +1,21 @@
 # SBSR
 ## 深度学习在图像处理中的应用教程
-[深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing "B站视频")
+[深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing "B站视频")\<br>
 
 
 ## 生成艺术风格的线条草图
-[Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis "通过预训练模型生成艺术风格的线条草图 A collection of papers about Sketch Synthesis (Generation). Mainly focus on stroke-level vector sketch synthesis.")
-[Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications "更多的基于草图的应用")
+[Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis "通过预训练模型生成艺术风格的线条草图 A collection of papers about Sketch Synthesis (Generation). Mainly focus on stroke-level vector sketch synthesis.")\<br>
+[Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications "更多的基于草图的应用")\<br>
 
 
 ## 3D模型多视图渲染处理
-[shrec-sketches-helpers](https://github.com/twuilliam/shrec-sketches-helpers)
-[shrec-sketches-helpers](https://github.com/FutureXZC/shrec-sketches-helpers)
+[shrec-sketches-helpers](https://github.com/twuilliam/shrec-sketches-helpers)\<br>
+[shrec-sketches-helpers](https://github.com/FutureXZC/shrec-sketches-helpers)\<br>
 
 
 ## 度量学习 Metric Learning
-[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")
-[keras-triplet-center-loss](https://github.com/popcornell/keras-triplet-center-loss)
+[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")\<br>
+[keras-triplet-center-loss](https://github.com/popcornell/keras-triplet-center-loss)\<br>
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
 [OpenSSE: Open Sketch Search Engine](https://github.com/zddhub/opensse)
