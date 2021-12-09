@@ -31,8 +31,7 @@
 |PyTorch|[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")|
 |keras|[keras-triplet-center-loss](https://github.com/popcornell/keras-triplet-center-loss)|
 |相似性搜索开源库|[Faiss](https://github.com/facebookresearch/faiss)|
-||[]()|
-||[]()|
+|word2vec|[word2vec](https://github.com/danielfrg/word2vec)|
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
 |描述|资源地址|
