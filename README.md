@@ -35,6 +35,7 @@
 |GoogleNews-vectors-negative300预训练模型|[已经保存到了百度网盘](https://blog.csdn.net/sunny_ran123/article/details/109098539)|
 |利用GoogleNews-vectors-negative300提取词语的词向量|[code](https://ask.csdn.net/questions/7470050)|
 |Google词向量word2vec的使用|[code](https://www.cnblogs.com/demo-deng/p/9705108.html)|
+|使用gensim库里的word2vec加载和保存模型、在预训练基础上训练自己的语料|[code](https://blog.csdn.net/sinat_28375239/article/details/109024745?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.opensearchhbase&spm=1001.2101.3001.4242.2)|
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
 |描述|资源地址|
