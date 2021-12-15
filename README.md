@@ -30,7 +30,7 @@
 |-----|-----|
 |PyTorch|[PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb "度量学习示例教程")|
 |keras|[keras-triplet-center-loss](https://github.com/popcornell/keras-triplet-center-loss)|
-|相似性搜索开源库|[Faiss](https://github.com/facebookresearch/faiss)|
+|Faiss相似性搜索开源库|[Faiss](https://github.com/facebookresearch/faiss)|
 |word2vec|[word2vec](https://github.com/danielfrg/word2vec)|
 |GoogleNews-vectors-negative300预训练模型|[已经保存到了百度网盘](https://blog.csdn.net/sunny_ran123/article/details/109098539)|
 |利用GoogleNews-vectors-negative300提取词语的词向量|[code](https://ask.csdn.net/questions/7470050)|
