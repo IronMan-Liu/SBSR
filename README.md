@@ -1,8 +1,15 @@
 # SBSR
+
+## 数据集 CADSketchNet
+|描述|资源地址|
+|-----|-----|
+|！！！基于ESB和MCB的数据集|[CADSketchNet](https://github.com/bharadwaj-manda/CADSketchNet)<br>|
+|SHREC2021成果|[SHREC2021 - 3D Shape Retrieval Challenge 2021](https://3dor2021.github.io/programme.html)<br>|
+
 ## 模型检索代码汇总 Model retrieval
 |描述|资源地址|
 |-----|-----|
-|包含word2vec|[Some ML Model retrieval](https://github.com/iofu728/Model_retrieval)<br>|
+|包含word2vec|[Some ML Model retrieval](file:///E:/1SBR/1-dataset/SHREC2021%20Call%20for%20Participation.html)<br>|
 
 
 ## 深度学习在图像处理中的应用教程
