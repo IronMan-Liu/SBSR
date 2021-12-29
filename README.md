@@ -58,7 +58,7 @@
 ||[TCNet （基于草图检索）](https://github.com/avalonstrel/TCNet)<br>|
 |Pytorch implementation of Triplet Network for Content-based Image Retrieval (CBIR).<br>|[Triplet Network](https://github.com/thainguyentrong/triplet-net)<br>|
 ||[3D Shape Retrieval and Sketched Scene Reconstruction Using Triplet Embedding](https://github.com/Madalaski/MattRedmondL3Project)<br>|
-||[SBIR (Sketch-based Icon retrieval)](https://github.com/emizzz/Sketch-to-Icon-Paper-Code)<br>|
+|[QuickDraw数据集](https://github.com/googlecreativelab/quickdraw-dataset)|[SBIR (Sketch-based Icon retrieval)](https://github.com/emizzz/Sketch-to-Icon-Paper-Code)<br>|
 |Code for Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning. ICCV 2021.<br>|[CMIC-Retrieval](https://github.com/IGLICT/IBSR_jittor)<br>|
 
 
