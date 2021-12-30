@@ -53,13 +53,13 @@
 |Multi-View CNN built on ResNet/AlexNet to classify 3D objects|[MVCNN-PyTorch](https://github.com/RBirkeland/MVCNN-PyTorch)|√|
 ||[SupCon-Framework](https://github.com/ivanpanshin/SupCon-Framework)<br>|
 ||[Triplet Loss SBIR](https://github.com/TuBui/Triplet_Loss_SBIR)<br>|√|
-||[Triplet Center Loss (TCL) Solution for SHREC2018 IBR & SBR](https://github.com/xlliu7/Shrec2018_TripletCenterLoss.pytorch)<br>|
+||[Triplet Center Loss (TCL) Solution for SHREC2018 IBR & SBR](https://github.com/xlliu7/Shrec2018_TripletCenterLoss.pytorch)<br>|√|
 ||[Siamese and triplet learning with online pair/triplet mining](https://github.com/adambielski/siamese-triplet)<br>|
-||[TCNet （基于草图检索）](https://github.com/avalonstrel/TCNet)<br>|
-|Pytorch implementation of Triplet Network for Content-based Image Retrieval (CBIR).<br>|[Triplet Network](https://github.com/thainguyentrong/triplet-net)<br>|
-||[3D Shape Retrieval and Sketched Scene Reconstruction Using Triplet Embedding](https://github.com/Madalaski/MattRedmondL3Project)<br>|
-|[QuickDraw数据集](https://github.com/googlecreativelab/quickdraw-dataset)|[SBIR (Sketch-based Icon retrieval)](https://github.com/emizzz/Sketch-to-Icon-Paper-Code)<br>|
-|Code for Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning. ICCV 2021.<br>|[CMIC-Retrieval](https://github.com/IGLICT/IBSR_jittor)<br>|
+||[TCNet （基于草图检索）](https://github.com/avalonstrel/TCNet)<br>|√|
+|Pytorch implementation of Triplet Network for Content-based Image Retrieval (CBIR).<br>|[Triplet Network](https://github.com/thainguyentrong/triplet-net)<br>|√|
+||[3D Shape Retrieval and Sketched Scene Reconstruction Using Triplet Embedding](https://github.com/Madalaski/MattRedmondL3Project)<br>|√|
+|[QuickDraw数据集](https://github.com/googlecreativelab/quickdraw-dataset)|[SBIR (Sketch-based Icon retrieval)](https://github.com/emizzz/Sketch-to-Icon-Paper-Code)<br>|√|
+|Code for Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning. ICCV 2021.<br>|[CMIC-Retrieval](https://github.com/IGLICT/IBSR_jittor)<br>|√|
 
 
 ## 胶囊网络 CapsNet
