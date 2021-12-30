@@ -46,13 +46,13 @@
 |从谷歌新闻语料库中加载最常用的 20 万个词|[code](https://blog.csdn.net/fgg1234567890/article/details/112974650?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-8.fixedcolumn&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-8.fixedcolumn)|
 
 ## 基于草图的三维模型检索 sketch-based 3D Shape retrieval
-|描述|资源地址|
-|-----|-----|
+|描述|资源地址|下载|
+|-----|-----|-----|
 ||[OpenSSE: Open Sketch Search Engine](https://github.com/zddhub/opensse)<br>|
 ||[Line Drawings View Tool](https://github.com/zddhub/trianglemesh)<br>|
-|Multi-View CNN built on ResNet/AlexNet to classify 3D objects|[MVCNN-PyTorch](https://github.com/RBirkeland/MVCNN-PyTorch)|
+|Multi-View CNN built on ResNet/AlexNet to classify 3D objects|[MVCNN-PyTorch](https://github.com/RBirkeland/MVCNN-PyTorch)|√|
 ||[SupCon-Framework](https://github.com/ivanpanshin/SupCon-Framework)<br>|
-||[Triplet Loss SBIR](https://github.com/TuBui/Triplet_Loss_SBIR)<br>|
+||[Triplet Loss SBIR](https://github.com/TuBui/Triplet_Loss_SBIR)<br>|√|
 ||[Triplet Center Loss (TCL) Solution for SHREC2018 IBR & SBR](https://github.com/xlliu7/Shrec2018_TripletCenterLoss.pytorch)<br>|
 ||[Siamese and triplet learning with online pair/triplet mining](https://github.com/adambielski/siamese-triplet)<br>|
 ||[TCNet （基于草图检索）](https://github.com/avalonstrel/TCNet)<br>|
